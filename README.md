@@ -1,6 +1,6 @@
 # Virtual Force-driven Coachbot Swarm Navigation
 
-This project implements a **decentralized swarm navigation algorithm** inspired by natural systems such as bird flocks and fish schools. Using the **(Coachbot swarm robotics platform)[https://github.com/CoachbotSwarm/User-Guide]**, robots perform **circular motion around a nucleus point** while maintaining cohesion and avoiding collisions. The algorithm combines **circular, cohesion, and separation forces** to enable smooth, collision-free, and scalable swarm behavior.
+This project implements a **decentralized swarm navigation algorithm** inspired by natural systems such as bird flocks and fish schools. Using the **[Coachbot swarm robotics platform](https://github.com/CoachbotSwarm/User-Guide)**, robots perform **circular motion around a nucleus point** while maintaining cohesion and avoiding collisions. The algorithm combines **circular, cohesion, and separation forces** to enable smooth, collision-free, and scalable swarm behavior.
 
 ## Features
 - Virtual force-driven swarm coordination  
