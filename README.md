@@ -14,6 +14,12 @@ This project implements a **decentralized swarm navigation algorithm** inspired 
 3. Run the simulator scripts in the `simulator/` folder  
 4. Deploy to real robots using the Coachbot API  
 
+
+
+
+https://github.com/user-attachments/assets/8ae42aea-547f-4055-8b10-658809a574c6
+
+
 ## Repository Structure
 ```
 .
